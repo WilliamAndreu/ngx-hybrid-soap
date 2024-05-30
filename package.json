@@ -1,6 +1,6 @@
 {
   "name": "ngx-hybrid-soap",
-  "version": "0.17.7",
+  "version": "0.17.8",
   "description": "SOAP service for Angular",
   "main": "src/index.js",
   "module": "src/index.js",
