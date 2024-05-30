@@ -1,4 +1,4 @@
-# ngx-rudo-soap
+# ngx-hybrid-soap
 
 
 Simple SOAP client for Angular based on amazing [node-soap](https://github.com/vpulim/node-soap).
@@ -12,7 +12,7 @@ Please be aware, this package version number will be equal to the corresponding 
 
 1. install ngx-soap and dependencies
 
-    `npm install --save ngx-rudo-soap`
+    `npm install --save ngx-hybrid-soap`
 
     `npm install --save buffer concat-stream core-js crypto-js events lodash sax stream uuid`
 
