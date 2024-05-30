@@ -1,0 +1,14 @@
+/.angular/cache
+node_modules
+npm-debug.log
+coverage
+yarn.lock
+.vscode
+.idea
+*.iml
+tools/bin
+tools/test
+dist
+spec/out
+.angular/cache
+projects/ngx-soap/package-lock.json
