@@ -2,7 +2,7 @@
   "name": "ngx-rudo-soap",
   "version": "0.16.3",
   "description": "SOAP service for Angular",
-  "homepage": "https://github.com/seyfer/ngx-soap",
+  "homepage": "https://github.com/WilliamAndreu/ngx-rudo-soap",
   "author": "Luca Lulani, marcward, Oleg Abrazhaev",
   "license": "MIT",
   "keywords": [

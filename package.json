@@ -35,13 +35,13 @@
   "author": "Luca Lulani, marcward, Oleg Abrazhaev",
   "license": "MIT",
   "readme": "README.md",
-  "homepage": "https://github.com/seyfer/ngx-soap",
+  "homepage": "https://github.com/WilliamAndreu/ngx-rudo-soap",
   "bugs": {
-    "url": "https://github.com/seyfer/ngx-soap/issues"
+    "url": "https://github.com/WilliamAndreu/ngx-rudo-soap/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seyfer/ngx-soap.git"
+    "url": "https://github.com/WilliamAndreu/ngx-rudo-soap.git"
   },
   "dependencies": {
     "@angular-devkit/build-angular": "^17.3.8",

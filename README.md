@@ -73,7 +73,7 @@ F.e., if this is another v16 change, bump minor version to 0.16.(X+1).
 
 ## Local example development 
 
-1. `git clone -b angular-cli-ilb https://github.com/seyfer/ngx-soap.git`
+1. `git clone -b angular-cli-ilb https://github.com/WilliamAndreu/ngx-rudo-soap.git`
 2. `cd ngx-soap && npm install`
 3. `ng build ngx-soap`
 4. `ng test ngx-soap`
@@ -85,6 +85,7 @@ See example app under `src/app`
 [Luca Lulani](https://github.com/lula)
 
 ## Contributors
+[William Andreu](https://github.com/WilliamAndreu)
 [Oleg Abrazhaev](https://github.com/seyfer)
 [markward](https://github.com/marcward)
 [Andrei Bespamiatnov](https://github.com/AndreyBespamyatnov)
