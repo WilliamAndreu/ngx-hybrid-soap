@@ -16,7 +16,7 @@
     "test:lib": "ng test ngx-soap",
     "build:lib": "ng build --configuration production ngx-soap && cp README.md dist/ngx-soap && cp LICENSE dist/ngx-soap",
     "pack": "cd ./dist/ngx-soap/ && npm pack && cd ../.. && cp dist/ngx-soap/ngx*tgz ..",
-    "publish": "cd ./dist/ngx-soap/ && npm publish",
+    "publish": "cd ./dist/ngx-soap && npm publish",
     "publish:dry-run": "cd ./dist/ngx-soap/ && npm publish --dry-run"
   },
   "keywords": [
